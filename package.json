@@ -1,0 +1,15 @@
+{
+  "name": "unresolved",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@eclipse-scout/core": "11.0.15"
+  }
+}
